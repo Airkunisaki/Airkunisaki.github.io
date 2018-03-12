@@ -1,0 +1,19 @@
+#!/bin/bash
+
+hexo clean 
+hexo generate
+
+/usr/bin/expect <<-EOF
+
+set time 30
+
+spawn hexo deploy
+
+expect {
+  "Username*" {send "airkunisaki\r"; exp_continue}
+  "Password*" {send "geniuszq04\r"}
+
+}
+
+expect eof
+EOF
