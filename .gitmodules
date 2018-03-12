@@ -1,0 +1,4 @@
+
+[submodule "origin_files/themes/next"]
+	path = origin_files/themes/next
+	url = https://github.com/Airkunisaki/hexo-theme-next/
