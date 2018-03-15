@@ -1888,7 +1888,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #90ec05;
+  background: #beffa4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2519,7 +2519,7 @@ ul.breadcrumb li+li:last-child {
   padding: 40px;
   width: 700px;
   background: transparent;
-  background-color: #dce2f1;
+  background-color: rgba(220,226,241,0.2);
   min-height: 700px;
   box-shadow: initial;
   border-radius: initial;
@@ -2867,15 +2867,4 @@ ul.breadcrumb li+li:last-child {
   margin-bottom: 60px;
   padding: 25px;
   box-shadow: 0 0 10px rgba(150,150,150,0.5);
-}
-@media screen and (min-width: 1200px) {
-  body {
-    background-image: url("/images/moutain.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 50% 50%;
-  }
-  #footer a {
-    color: #eee;
-  }
 }
