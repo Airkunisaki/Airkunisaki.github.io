@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bujianyouchou.net/2018/03/01/my-first-blog/</loc>
+    
+    <lastmod>2018-03-16T09:14:23.027Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bujianyouchou.net/tags/index.html</loc>
     
     <lastmod>2018-03-09T09:27:12.983Z</lastmod>
@@ -16,16 +23,9 @@
   </url>
   
   <url>
-    <loc>http://bujianyouchou.net/2018/03/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>http://bujianyouchou.net/2018/03/12/singleton/</loc>
     
     <lastmod>2018-03-09T08:59:40.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bujianyouchou.net/2018/03/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    
-    <lastmod>2018-03-01T10:22:59.085Z</lastmod>
     
   </url>
   
